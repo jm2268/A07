@@ -16,7 +16,9 @@ img  {
 	float: right;
 	margin: 0 1em;
 }
-p {
+p {     
+	clear: both 
+	color: red;
 	margin: 0;
 	padding-bottom: .5em;
 }
